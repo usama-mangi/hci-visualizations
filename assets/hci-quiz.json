@@ -1,0 +1,395 @@
+{
+  "title": "HCI Quiz",
+  "questions": [
+    {
+      "question": "In the context of HCI fundamental goals, how is a system classified if it allows a doctor to retrieve patient records but has a difficult and confusing navigation menu?",
+      "answerOptions": [
+        {
+          "text": "Useful but not usable",
+          "isCorrect": true,
+          "rationale": "The system fulfills the functional requirements (usefulness) but fails in ease of operation (usability)."
+        },
+        {
+          "text": "Usable but not used",
+          "isCorrect": false,
+          "rationale": "Usability refers to the ease of operation, which is explicitly stated as being difficult and confusing in this scenario."
+        },
+        {
+          "text": "Used but not useful",
+          "isCorrect": false,
+          "rationale": "A system is 'used' when it provides a satisfying experience, whereas 'useful' refers to whether the core functions are present."
+        },
+        {
+          "text": "Neither useful nor usable",
+          "isCorrect": false,
+          "rationale": "The system is considered useful because it actually performs the necessary task of retrieving records, even if poorly designed."
+        }
+      ],
+      "hint": "Distinguish between the existence of a function and the ease of performing that function."
+    },
+    {
+      "question": "During which technological wave did the focus of HCI shift toward the general public and the introduction of WIMP (Windows, Icons, Menus, Pointer) interfaces?",
+      "answerOptions": [
+        {
+          "text": "1st Wave",
+          "isCorrect": false,
+          "rationale": "The first wave was dominated by mainframe computing and command-line interfaces for expert users."
+        },
+        {
+          "text": "2nd Wave",
+          "isCorrect": true,
+          "rationale": "This era saw the rise of personal computers and the transition to graphical user interfaces designed for non-experts."
+        },
+        {
+          "text": "3rd Wave",
+          "isCorrect": false,
+          "rationale": "The third wave focused on the Internet, networked computing, and information architecture."
+        },
+        {
+          "text": "4th Wave",
+          "isCorrect": false,
+          "rationale": "The fourth wave centered on mobile computing, touchscreens, and context-aware design."
+        }
+      ],
+      "hint": "This era is characterized by the transition from professional mainframes to personal desktops."
+    },
+    {
+      "question": "A user is learning a complex new graphic design software and is carefully reading through the help documentation to understand how layers work. Which type of cognition is primarily being used?",
+      "answerOptions": [
+        {
+          "text": "Experiential Cognition",
+          "isCorrect": false,
+          "rationale": "Experiential cognition is fast and automatic, typically seen in well-practiced tasks rather than learning new complex systems."
+        },
+        {
+          "text": "Reflective Cognition",
+          "isCorrect": true,
+          "rationale": "This type of cognition involves deliberate mental effort, thinking, and comparison when facing new or complex situations."
+        },
+        {
+          "text": "Implicit Cognition",
+          "isCorrect": false,
+          "rationale": "Implicit processes occur without conscious awareness, while reading documentation is a highly conscious, effortful act."
+        },
+        {
+          "text": "Procedural Cognition",
+          "isCorrect": false,
+          "rationale": "Procedural knowledge relates to 'how-to' skills often stored in long-term memory, rather than the active analytical process of learning."
+        }
+      ],
+      "hint": "Consider whether the user's mental state is 'autopilot' or 'analytical mode'."
+    },
+    {
+      "question": "According to the Mental Model framework, what serves as the primary communication bridge between the Designer's Model and the User's Mental Model?",
+      "answerOptions": [
+        {
+          "text": "System Image",
+          "isCorrect": true,
+          "rationale": "The system image includes the interface, feedback, and documentation that actually conveys the designer's intent to the user."
+        },
+        {
+          "text": "Conceptual Mapping",
+          "isCorrect": false,
+          "rationale": "Mapping is the relationship between controls and their effects, but it is only one part of the broader communication channel."
+        },
+        {
+          "text": "Affordance Loop",
+          "isCorrect": false,
+          "rationale": "Affordances suggest how an object might be used, but the term for the total physical manifestation of the system is the system image."
+        },
+        {
+          "text": "Mental Representation",
+          "isCorrect": false,
+          "rationale": "This is what the user forms internally, rather than the external medium used by the designer to communicate."
+        }
+      ],
+      "hint": "Think about the tangible interface and documentation that a user actually interacts with."
+    },
+    {
+      "question": "Which type of attention describes the ability of an air traffic controller to remain focused on a radar screen for a two-hour shift?",
+      "answerOptions": [
+        {
+          "text": "Selective Attention",
+          "isCorrect": false,
+          "rationale": "Selective attention focuses on filtering out noise in a specific moment rather than maintaining focus over long durations."
+        },
+        {
+          "text": "Divided Attention",
+          "isCorrect": false,
+          "rationale": "Divided attention involves processing multiple information sources at once, not necessarily focusing on one for a long time."
+        },
+        {
+          "text": "Sustained Attention",
+          "isCorrect": true,
+          "rationale": "Also known as vigilance, this is the capacity to maintain focus on a particular stimulus over a prolonged period."
+        },
+        {
+          "text": "Executive Attention",
+          "isCorrect": false,
+          "rationale": "While executive functions manage attention, the specific term for long-term monitoring is sustained attention."
+        }
+      ],
+      "hint": "This concept is also referred to as 'vigilance'."
+    },
+    {
+      "question": "Based on the Atkinson-Shiffrin model, what is the typical duration for information held in echoic (auditory) sensory memory?",
+      "answerOptions": [
+        {
+          "text": "$0.5$ seconds",
+          "isCorrect": false,
+          "rationale": "This duration is characteristic of iconic (visual) memory, which is much briefer than auditory storage."
+        },
+        {
+          "text": "$2 - 4$ seconds",
+          "isCorrect": true,
+          "rationale": "Auditory information must persist longer to allow the brain to process temporal sequences of sound into language."
+        },
+        {
+          "text": "$15 - 30$ seconds",
+          "isCorrect": false,
+          "rationale": "This is the duration of working memory (short-term memory) when active rehearsal is not taking place."
+        },
+        {
+          "text": "$1 - 2$ minutes",
+          "isCorrect": false,
+          "rationale": "Sensory memory is primitive and extremely brief; it cannot hold information for minutes."
+        }
+      ],
+      "hint": "Auditory snapshots need to last longer than visual snapshots to make sense of spoken sentences."
+    },
+    {
+      "question": "If a user is trying to remember a new password of 10 random letters, they may struggle because working memory capacity is generally limited to which range?",
+      "answerOptions": [
+        {
+          "text": "$3 \\pm 1$ items",
+          "isCorrect": false,
+          "rationale": "While some modern research suggests lower limits for unrelated items, the classic HCI standard is based on Miller's Law."
+        },
+        {
+          "text": "$7 \\pm 2$ items",
+          "isCorrect": true,
+          "rationale": "Miller's Law (1956) identifies this range as the standard capacity of the human 'active workspace' or working memory."
+        },
+        {
+          "text": "$12 \\pm 3$ items",
+          "isCorrect": false,
+          "rationale": "This exceeds the documented capacity of working memory for the vast majority of human users."
+        },
+        {
+          "text": "Unlimited",
+          "isCorrect": false,
+          "rationale": "Only Long-Term Memory is considered to have effectively unlimited capacity; working memory is highly constrained."
+        }
+      ],
+      "hint": "This is a famous principle known as Miller's Law."
+    },
+    {
+      "question": "When a user knows that the 'floppy disk' icon means 'Save' without having to think about it, which type of Long-Term Memory (LTM) are they utilizing?",
+      "answerOptions": [
+        {
+          "text": "Episodic Memory",
+          "isCorrect": false,
+          "rationale": "Episodic memory refers to personal autobiographical events, not general factual knowledge of concepts."
+        },
+        {
+          "text": "Semantic Memory",
+          "isCorrect": true,
+          "rationale": "Semantic memory stores general factual knowledge, meanings, and concepts independent of personal experience."
+        },
+        {
+          "text": "Procedural Memory",
+          "isCorrect": false,
+          "rationale": "Procedural memory involves the 'how-to' of motor skills, like typing, rather than the recognition of symbolic meaning."
+        },
+        {
+          "text": "Sensory Memory",
+          "isCorrect": false,
+          "rationale": "Sensory memory is the initial buffer for raw stimuli, not a long-term storage system for learned conventions."
+        }
+      ],
+      "hint": "This type of memory handles meanings, facts, and standard conventions."
+    },
+    {
+      "question": "A user gets frustrated because a software update moved the 'Print' button from the top right to the bottom left. They keep clicking the top right by mistake. This is an example of which forgetting mechanism?",
+      "answerOptions": [
+        {
+          "text": "Decay Theory",
+          "isCorrect": false,
+          "rationale": "Decay theory suggests memories fade over time due to disuse, but here the user is actively using an old habit."
+        },
+        {
+          "text": "Proactive Interference",
+          "isCorrect": true,
+          "rationale": "Proactive interference occurs when old, established memories (the old button location) block the retrieval of new information."
+        },
+        {
+          "text": "Retroactive Interference",
+          "isCorrect": false,
+          "rationale": "Retroactive interference occurs when new learning makes it harder to remember old information; this scenario is the reverse."
+        },
+        {
+          "text": "Retrieval Failure",
+          "isCorrect": false,
+          "rationale": "While retrieval is the ultimate problem, the specific cause here is the conflict between old and new learned patterns."
+        }
+      ],
+      "hint": "Think about which direction the interference is flowing: old habits affecting new learning."
+    },
+    {
+      "question": "Which Gestalt principle explains why we perceive three horizontal lines as a single 'hamburger' menu icon?",
+      "answerOptions": [
+        {
+          "text": "Proximity",
+          "isCorrect": false,
+          "rationale": "Proximity suggests nearby items are grouped, but it doesn't explain how we perceive the lines as a whole functional object."
+        },
+        {
+          "text": "Closure",
+          "isCorrect": true,
+          "rationale": "Closure allows the brain to fill in missing gaps and perceive a complete, unified structure even when only parts are shown."
+        },
+        {
+          "text": "Symmetry",
+          "isCorrect": false,
+          "rationale": "Symmetry helps with perceived balance and stability, but it is not the primary reason we see the three lines as a 'menu' box."
+        },
+        {
+          "text": "Common Fate",
+          "isCorrect": false,
+          "rationale": "Common fate involves items moving in the same direction, which is irrelevant to a static icon."
+        }
+      ],
+      "hint": "The mind 'fills in the gaps' to create a complete shape."
+    },
+    {
+      "question": "Why is Appraisal Theory considered the most suitable psychological theory of emotion for HCI design?",
+      "answerOptions": [
+        {
+          "text": "It focuses on physiological responses like heart rate.",
+          "isCorrect": false,
+          "rationale": "This focus is more characteristic of the James-Lange theory than Appraisal Theory."
+        },
+        {
+          "text": "It suggests that emotions arise from a user's cognitive evaluation of an event relative to their goals.",
+          "isCorrect": true,
+          "rationale": "Appraisal Theory explains that user frustration or joy stems from whether the system helps or hinders their specific objectives."
+        },
+        {
+          "text": "It argues that arousal and emotion happen simultaneously and independently.",
+          "isCorrect": false,
+          "rationale": "This is the core tenet of the Cannon-Bard theory, not Appraisal Theory."
+        },
+        {
+          "text": "It claims that humans label the same physiological state differently based on context.",
+          "isCorrect": false,
+          "rationale": "This describes the Schachter-Singer theory of emotional labeling."
+        }
+      ],
+      "hint": "Consider how a user's success or failure in reaching a goal determines their feelings toward the software."
+    },
+    {
+      "question": "In the Executive Activity layer of the Mental Activity Framework, which component involves the user checking their progress and observing the system's current state?",
+      "answerOptions": [
+        {
+          "text": "Planning",
+          "isCorrect": false,
+          "rationale": "Planning is the anticipatory stage where the user decides on a sequence of actions before execution."
+        },
+        {
+          "text": "Monitoring",
+          "isCorrect": true,
+          "rationale": "Monitoring is the continuous process of observing the system state and the results of one's own actions during a task."
+        },
+        {
+          "text": "Regulation",
+          "isCorrect": false,
+          "rationale": "Regulation is the act of adjusting behavior based on what was observed during the monitoring phase."
+        },
+        {
+          "text": "Adaptation",
+          "isCorrect": false,
+          "rationale": "Adaptation involves modifying long-term strategies, whereas tracking a current task is a monitoring function."
+        }
+      ],
+      "hint": "This is an ongoing observation process supported by feedback and progress bars."
+    },
+    {
+      "question": "Which Gestalt principle is being applied when a designer dims the entire background of a webpage to make a pop-up subscription box stand out?",
+      "answerOptions": [
+        {
+          "text": "Continuity",
+          "isCorrect": false,
+          "rationale": "Continuity refers to the eye following a path or line, not the separation of focal elements from context."
+        },
+        {
+          "text": "Figure-Ground",
+          "isCorrect": true,
+          "rationale": "This principle involves separating a visual field into a focal 'figure' and a receding 'ground' to direct user attention."
+        },
+        {
+          "text": "Similarity",
+          "isCorrect": false,
+          "rationale": "Similarity groups items that look alike; dimming the background is about creating contrast, not likeness."
+        },
+        {
+          "text": "Common Fate",
+          "isCorrect": false,
+          "rationale": "Common fate is related to synchronized movement, not static visual layering."
+        }
+      ],
+      "hint": "This involves creating a distinction between focal elements and the surrounding context."
+    },
+    {
+      "question": "Which discipline within the multidisciplinary field of HCI is primarily concerned with the physical comfort of a user, such as keyboard layout and screen positioning?",
+      "answerOptions": [
+        {
+          "text": "Cognitive Psychology",
+          "isCorrect": false,
+          "rationale": "Cognitive psychology focuses on mental processes like memory and attention rather than physical physiology."
+        },
+        {
+          "text": "Ergonomics",
+          "isCorrect": true,
+          "rationale": "Ergonomics deals specifically with human physical capabilities, comfort, and the design of the physical workspace."
+        },
+        {
+          "text": "Sociology",
+          "isCorrect": false,
+          "rationale": "Sociology focuses on group behavior and cultural context rather than individual physical interaction."
+        },
+        {
+          "text": "Linguistics",
+          "isCorrect": false,
+          "rationale": "Linguistics is concerned with the language and terminology used in labels and error messages."
+        }
+      ],
+      "hint": "Think of the study of designing equipment and devices that fit the human body."
+    },
+    {
+      "question": "A designer decides to use a list of 'Recent Files' in a software application to help users find their work quickly. Which HCI design principle for memory support does this best illustrate?",
+      "answerOptions": [
+        {
+          "text": "Chunking",
+          "isCorrect": false,
+          "rationale": "Chunking involves grouping data together (like phone numbers) rather than providing cues for identification."
+        },
+        {
+          "text": "Recognition over Recall",
+          "isCorrect": true,
+          "rationale": "Showing a list of files allows the user to recognize the one they need, rather than having to recall the exact name and location from scratch."
+        },
+        {
+          "text": "Metaphor usage",
+          "isCorrect": false,
+          "rationale": "Metaphors involve using real-world analogies (like a trash can), while a recent files list is a direct utility for identifying data."
+        },
+        {
+          "text": "Spaced Repetition",
+          "isCorrect": false,
+          "rationale": "Spaced repetition is a learning technique for long-term retention, not a method for finding existing files."
+        }
+      ],
+      "hint": "It is easier to identify something that is visible than to remember it from an empty prompt."
+    }
+  ]
+}
