@@ -207,7 +207,7 @@ function VisualSummary({ chapter }) {
           🖼️ HCI Visual Overview
         </h3>
         <img
-          src="/assets/hci-infographic.png"
+          src="assets/hci-infographic.png"
           alt="HCI Infographic"
           className="w-full rounded-2xl border border-slate-700"
         />
@@ -223,7 +223,7 @@ function SlidesViewer() {
       <p className="text-slate-400 text-sm">Full slide deck covering all HCI topics — scroll through or open full screen.</p>
       <div className="rounded-2xl overflow-hidden border border-slate-700 bg-slate-900" style={{ height: '75vh' }}>
         <object
-          data="/assets/hci-slides.pdf"
+          data="assets/hci-slides.pdf"
           type="application/pdf"
           className="w-full h-full"
         >
@@ -231,7 +231,7 @@ function SlidesViewer() {
             <span className="text-4xl">📄</span>
             <p className="text-sm">PDF viewer not available in your browser.</p>
             <a
-              href="/assets/hci-slides.pdf"
+              href="assets/hci-slides.pdf"
               download
               className="px-4 py-2 bg-violet-600 hover:bg-violet-500 text-white rounded-xl text-sm font-semibold transition-colors"
             >
