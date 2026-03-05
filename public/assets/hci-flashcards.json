@@ -1,0 +1,333 @@
+{
+  "title": "HCI Flashcards",
+  "cards": [
+    {
+      "front": "What is the multidisciplinary field concerned with the design, evaluation, and implementation of interactive computing systems for human use?",
+      "back": "Human-Computer Interaction (HCI)"
+    },
+    {
+      "front": "HCI is described as a _____ mindset because it places the human being at the center of all design decisions.",
+      "back": "human-centered"
+    },
+    {
+      "front": "The HCI goal of _____ ensures a system provides the right functions to allow users to accomplish their tasks.",
+      "back": "Useful"
+    },
+    {
+      "front": "Which HCI goal focuses on operating a system effectively, efficiently, and safely?",
+      "back": "Usable"
+    },
+    {
+      "front": "In the context of HCI goals, 'Used' refers to the totality of the user's interaction, also known as _____.",
+      "back": "User Experience (UX)"
+    },
+    {
+      "front": "What are the five dimensions of Usability?",
+      "back": "Learnability, Efficiency, Memorability, Error Rate, and Satisfaction."
+    },
+    {
+      "front": "The two dimensions of the 'Used' goal in HCI are Apparent (visual design) and _____ (interaction quality, trust).",
+      "back": "Less Apparent"
+    },
+    {
+      "front": "Which discipline provides technical implementation and algorithms for building responsive interfaces in HCI?",
+      "back": "Computer Science"
+    },
+    {
+      "front": "How does Cognitive Psychology contribute to the field of HCI?",
+      "back": "By providing an understanding of mental processes like perception, memory, and attention."
+    },
+    {
+      "front": "What is the contribution of Ergonomics to HCI design?",
+      "back": "Understanding human physical capabilities and workspace design for comfort and safety."
+    },
+    {
+      "front": "Which discipline in HCI focuses on social context, cultural factors, and group behavior?",
+      "back": "Sociology & Anthropology"
+    },
+    {
+      "front": "What was the primary HCI focus during the 1st Wave (1960s-70s) of computing?",
+      "back": "Command-line efficiency for technical experts using mainframes."
+    },
+    {
+      "front": "The 2nd Wave (1980s) of computing shifted HCI focus toward _____ for the non-expert general public.",
+      "back": "Graphical User Interfaces (GUI) and usability"
+    },
+    {
+      "front": "What was the main HCI challenge during the 3rd Wave (1990s-2000s)?",
+      "back": "Web usability, information architecture, and universal access for diverse global users."
+    },
+    {
+      "front": "The 4th Wave (2000s-2010s) of HCI focuses on mobile era concepts like Natural User Interfaces (NUI) and _____ computing.",
+      "back": "ubiquitous"
+    },
+    {
+      "front": "What are the focus areas of the 5th Wave of HCI (2010s-Present)?",
+      "back": "AI, IoT, VR/AR, Brain-Computer Interaction (BCI), and affective computing."
+    },
+    {
+      "front": "Define 'Cognition' in the context of HCI.",
+      "back": "The mental processes involved in acquiring, processing, storing, and using information."
+    },
+    {
+      "front": "_____ cognition is fast, automatic, and effortless, occurring when tasks are well-practiced.",
+      "back": "Experiential"
+    },
+    {
+      "front": "What type of cognition involves deliberate mental effort, such as comparing options or learning a new application?",
+      "back": "Reflective cognition"
+    },
+    {
+      "front": "How should designers support experiential cognition?",
+      "back": "By using consistent layouts, familiar icons, and predictable interaction patterns."
+    },
+    {
+      "front": "How should designers support reflective cognition?",
+      "back": "By providing help documentation, tooltips, tutorials, and clear feedback."
+    },
+    {
+      "front": "In the HCI cognitive process, what occurs during the Perception stage?",
+      "back": "The user captures raw environmental data through sensory channels via sensory memory."
+    },
+    {
+      "front": "What is the role of Attention in the memory process cycle?",
+      "back": "It acts as a filter, moving relevant information from sensory memory to working memory."
+    },
+    {
+      "front": "What is the capacity and duration of Working Memory (STM)?",
+      "back": "Capacity of $7 \\pm 2$ items and a duration of 15\u201330 seconds without rehearsal."
+    },
+    {
+      "front": "How does information move from Working Memory to Long-Term Memory?",
+      "back": "Through rehearsal and elaboration."
+    },
+    {
+      "front": "A _____ is the internal representation a user constructs about how a system works.",
+      "back": "Mental Model"
+    },
+    {
+      "front": "In HCI, the 'System Image' consists of the interface, documentation, and _____ that communicate the designer's model.",
+      "back": "feedback"
+    },
+    {
+      "front": "What is the 'Ideal Scenario' regarding mental models in design?",
+      "back": "The Designer's Model, the System Image, and the User's Mental Model are all aligned."
+    },
+    {
+      "front": "Which type of human attention allows a user to focus on one source while filtering out distractions?",
+      "back": "Selective attention"
+    },
+    {
+      "front": "Why is true multitasking considered a myth for complex cognitive tasks?",
+      "back": "The brain performs rapid task-switching rather than processing multiple complex tasks simultaneously."
+    },
+    {
+      "front": "_____ attention is the ability to maintain focus on a stimulus over a prolonged period, also known as vigilance.",
+      "back": "Sustained"
+    },
+    {
+      "front": "What is the 'Cocktail Party Effect' an example of?",
+      "back": "Selective attention"
+    },
+    {
+      "front": "The tendency for sustained attention to drop after 20\u201330 minutes is a design consideration for what type of tasks?",
+      "back": "Monitoring tasks (e.g., air traffic control)."
+    },
+    {
+      "front": "Which factor affecting attention refers to highly distinct stimuli that automatically capture focus?",
+      "back": "Salience"
+    },
+    {
+      "front": "How does 'Expectancy' influence user attention in interface design?",
+      "back": "Users attend more readily to stimuli that align with consistent design patterns they expect."
+    },
+    {
+      "front": "What are the three stages of memory in the Atkinson-Shiffrin Model?",
+      "back": "Sensory Memory, Working Memory (STM), and Long-Term Memory (LTM)."
+    },
+    {
+      "front": "What is the duration of Iconic (visual) sensory memory?",
+      "back": "Approximately 0.5 seconds."
+    },
+    {
+      "front": "What is the duration of Echoic (auditory) sensory memory?",
+      "back": "2\u20134 seconds."
+    },
+    {
+      "front": "Which type of sensory memory is the briefest, typically lasting under 2 seconds?",
+      "back": "Haptic (tactile) memory."
+    },
+    {
+      "front": "In Baddeley's Working Memory model, what is the role of the Central Executive?",
+      "back": "It is a supervisory system that directs attention and coordinates the other sub-systems."
+    },
+    {
+      "front": "Which component of working memory holds verbal and auditory information through an 'inner voice'?",
+      "back": "Phonological Loop"
+    },
+    {
+      "front": "The _____ component of working memory is used for mental rotation and spatial navigation.",
+      "back": "Visuospatial Sketchpad"
+    },
+    {
+      "front": "What is the 'Chunking' strategy in working memory?",
+      "back": "Grouping individual items into meaningful units to extend the effective capacity of memory."
+    },
+    {
+      "front": "Explicit memory is divided into two categories: Semantic memory and _____ memory.",
+      "back": "Episodic"
+    },
+    {
+      "front": "Which type of LTM stores general factual knowledge and concepts independent of personal experience?",
+      "back": "Semantic memory"
+    },
+    {
+      "front": "Implicit memory includes _____ memory, which stores motor skills like swiping or touch-typing.",
+      "back": "procedural"
+    },
+    {
+      "front": "In memory theory, what is 'Priming'?",
+      "back": "A phenomenon where exposure to one stimulus influences the response to a subsequent stimulus."
+    },
+    {
+      "front": "What is the capacity of Long-Term Memory?",
+      "back": "Effectively unlimited."
+    },
+    {
+      "front": "According to _____ Theory, memory traces fade over time if they are not used or rehearsed.",
+      "back": "Decay"
+    },
+    {
+      "front": "_____ Theory of forgetting suggests that new information can displace or conflict with old information.",
+      "back": "Interference"
+    },
+    {
+      "front": "What is 'Retrieval Failure'?",
+      "back": "A situation where information is stored in LTM but cannot be accessed due to a lack of cues."
+    },
+    {
+      "front": "The _____ illustrates that memory retention drops sharply after initial encoding before leveling off.",
+      "back": "Ebbinghaus Forgetting Curve"
+    },
+    {
+      "front": "Which memory attribute refers to the capacity to convert perceived information into a memory representation?",
+      "back": "Encoding Ability"
+    },
+    {
+      "front": "According to Levels of Processing Theory, what leads to stronger memory traces?",
+      "back": "Deeper, more meaningful processing of information."
+    },
+    {
+      "front": "What is the HCI design standard for formatting long strings like phone numbers or ID cards?",
+      "back": "Break data into meaningful chunks of maximum 7 items."
+    },
+    {
+      "front": "Why is 'Recognition over Recall' a critical design principle for Working Memory?",
+      "back": "It makes options visible to minimize the mental effort of generating information from memory."
+    },
+    {
+      "front": "How do progress indicators support working memory?",
+      "back": "They externalize task state so users don't have to use mental resources to track their progress."
+    },
+    {
+      "front": "In HCI, what is the role of real-world metaphors like the 'Recycle Bin'?",
+      "back": "They map new system concepts to existing LTM knowledge to accelerate learning."
+    },
+    {
+      "front": "Which mental activity layer involves users evaluating their interaction and forming judgments?",
+      "back": "Reflective Activity (Evaluation Layer)"
+    },
+    {
+      "front": "_____ evaluation occurs during system use to identify problems in real-time.",
+      "back": "Formative"
+    },
+    {
+      "front": "Summative evaluation, such as using the System Usability Scale (SUS), typically occurs _____.",
+      "back": "after task completion"
+    },
+    {
+      "front": "In HCI, what does 'Valence' refer to regarding user emotions?",
+      "back": "The positive-negative continuum of an emotional state."
+    },
+    {
+      "front": "Which emotion theory states that physiological arousal precedes and causes the emotional experience?",
+      "back": "James-Lange Theory"
+    },
+    {
+      "front": "According to the Schachter-Singer Theory, Emotion = Physiological Arousal + _____.",
+      "back": "Cognitive Label"
+    },
+    {
+      "front": "Which emotion theory is most relevant to HCI because it links emotions to the cognitive evaluation of goals?",
+      "back": "Appraisal Theory"
+    },
+    {
+      "front": "In Appraisal Theory, _____ appraisal determines if an event is relevant to a user's goal.",
+      "back": "primary"
+    },
+    {
+      "front": "What does 'Executive Activity' refer to in the mental activity framework?",
+      "back": "High-level cognitive control processes that govern goal-directed behavior."
+    },
+    {
+      "front": "Which component of Executive Activity involves the user adjusting their behavior based on system feedback?",
+      "back": "Regulation"
+    },
+    {
+      "front": "What is the fundamental principle of Gestalt Psychology?",
+      "back": "The whole is greater than the sum of its parts."
+    },
+    {
+      "front": "The Gestalt principle of _____ states that objects near each other are perceived as belonging together.",
+      "back": "Proximity"
+    },
+    {
+      "front": "Which Gestalt principle is used when buttons of the same category share a consistent color?",
+      "back": "Similarity"
+    },
+    {
+      "front": "The Gestalt principle of _____ describes the eye's tendency to follow continuous paths or lines.",
+      "back": "Continuity"
+    },
+    {
+      "front": "Which Gestalt principle allows users to perceive a partially drawn circle as a complete progress indicator?",
+      "back": "Closure"
+    },
+    {
+      "front": "The _____ principle is applied when a modal dialog box is emphasized by dimming the background.",
+      "back": "Figure-Ground"
+    },
+    {
+      "front": "Which Gestalt principle suggests that symmetrical arrangements are perceived as stable and trustworthy?",
+      "back": "Symmetry"
+    },
+    {
+      "front": "The principle of _____ states that elements moving in the same direction at the same time are perceived as a group.",
+      "back": "Common Fate"
+    },
+    {
+      "front": "In HCI terminology, what are 'Affordances'?",
+      "back": "The perceived and actual properties of an object that determine how it could possibly be used."
+    },
+    {
+      "front": "What is 'Cognitive Load'?",
+      "back": "The total amount of mental effort being used in working memory at any one point in time."
+    },
+    {
+      "front": "Which type of cognitive load is caused by poor interface design and should be eliminated?",
+      "back": "Extraneous cognitive load"
+    },
+    {
+      "front": "What does the 'Used' goal of HCI stand for?",
+      "back": "User Experience (UX)"
+    },
+    {
+      "front": "According to the Atkinson-Shiffrin Model, what happens to information in working memory if it is not rehearsed?",
+      "back": "It is lost (forgotten)."
+    },
+    {
+      "front": "In Gestalt theory, what is the design role of the Similarity principle?",
+      "back": "To communicate element categories and relationships through consistent visual coding."
+    }
+  ]
+}
